@@ -19,7 +19,7 @@ title: Viswanath Reddy # the main title
 tagline: Azure DevOps enthusiast # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Mainnly Focused on kubbernnetes, docker, sonnarqube, azure devops and terraform.
+  Mainly Focused on kubbernetes, docker, sonarqube, azure devops and terraform.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
