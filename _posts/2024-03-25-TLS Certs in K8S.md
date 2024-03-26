@@ -7,7 +7,7 @@ author: viswa
 ---
 
 # how does certificates works in kubernetes?
-![Desktop View](/assets/posts/2024-03-26-TLS%20Certs%20in%20K8S/certificate.gif){: width="700"}
+![Desktop View](/assets/posts/2024-03-25-TLS%20Certs%20in%20K8S/certificate.gif){: width="700"}
 _TLS Certficates in K8S_
 
 Offloading certificates to an ingress controller is a common practice that can improve the security and performance of your web applications. By offloading the certificates to the ingress controller, you can free up resources on your web servers and improve the overall performance of your applications.
