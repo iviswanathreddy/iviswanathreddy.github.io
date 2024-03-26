@@ -36,11 +36,11 @@ In Linux, there are two primary categories of users: normal users and system use
 
 **Attributes:**
 
-System users often do not have login access, meaning they cannot log in to the system interactively. Instead, they are typically configured with a disabled or non-existent login shell.
+- System users often do not have login access, meaning they cannot log in to the system interactively. Instead, they are typically configured with a disabled or non-existent login shell.
 
-These users are used to manage and isolate the execution of system-related processes and services. Examples include web server processes (e.g., www-data), database server processes (e.g., mysql), and system monitoring services (e.g., nagios).
+- These users are used to manage and isolate the execution of system-related processes and services. Examples include web server processes (e.g., www-data), database server processes (e.g., mysql), and system monitoring services (e.g., nagios).
 
-System users are usually assigned UIDs in a specific range (e.g., UIDs below 1000) to distinguish them from regular users.
+- System users are usually assigned UIDs in a specific range (e.g., UIDs below 1000) to distinguish them from regular users.
 
 **Permissions:** System users have limited permissions and access rights, which are typically defined by the service or process they are associated with. They are often configured to have access only to the resources required for their specific tasks. The primary goal is to enhance system security by isolating system-level processes from regular user activities.
 
